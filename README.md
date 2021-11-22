@@ -12,6 +12,10 @@ Here you will find some of the projects I have already finished:
 
 [mini_RT](https://github.com/viniseneda/miniRT): a simple ray tracer written in C
 
+### Other projects
+
+Currently very interested in learning funcional programming. Trying to make a version of the [MAL](https://github.com/kanaka/mal), the Clojure inspired Lisp interpreter.
+
 
 <!--
 **viniseneda/viniseneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
