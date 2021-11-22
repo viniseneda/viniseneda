@@ -8,7 +8,7 @@ I am very interested in creative code, languages, cognitive science, thinking ab
 
 Here you will find some of the projects I have already finished:
 
-[libft](https://github.com/viniseneda/libft): my first library written in C + a "get next line" function
+[libft](https://github.com/viniseneda/libft): my first library written in C and the "get next line" function
 
 [mini_RT](https://github.com/viniseneda/miniRT): a simple ray tracer written in C
 
