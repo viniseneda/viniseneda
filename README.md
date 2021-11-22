@@ -10,6 +10,8 @@ Here you will find some of the projects I have already finished:
 
 [libft](https://github.com/viniseneda/libft): my first library written in C and the "get next line" function
 
+[ft_printf](https://github.com/viniseneda/ft_printf): implementation of a prinft function
+
 [mini_RT](https://github.com/viniseneda/miniRT): a simple ray tracer written in C
 
 ### Other projects
