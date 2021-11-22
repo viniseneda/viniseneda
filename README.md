@@ -16,7 +16,7 @@ Here you will find some of the projects I have already finished:
 
 ### Other projects
 
-Currently very interested in learning funcional programming. Trying to make a version of the [MAL](https://github.com/kanaka/mal), the Clojure inspired Lisp interpreter.
+Currently very interested in learning funcional programming. Trying to make a version of [MAL](https://github.com/kanaka/mal), the Clojure inspired Lisp interpreter.
 
 
 <!--
