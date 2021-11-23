@@ -14,6 +14,8 @@ Here you will find some of the projects I have already finished:
 
 [mini_RT](https://github.com/viniseneda/miniRT): a simple ray tracer written in C
 
+[pipex](https://github.com/viniseneda/pipex): an implementation of the pipe function from shell
+
 ### Other projects
 
 Currently very interested in learning funcional programming. Trying to make a version of [MAL](https://github.com/kanaka/mal), the Clojure inspired Lisp interpreter.
