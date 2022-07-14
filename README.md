@@ -16,6 +16,8 @@ Here you will find some of the projects I have already finished:
 
 [pipex](https://github.com/viniseneda/pipex): an implementation of the pipe function from shell
 
+[minishell](https://github.com/viniseneda/minishell): an simple implementation of a linux shell
+
 ### Other projects
 
 Currently very interested in learning funcional programming. Trying to make a version of [MAL](https://github.com/kanaka/mal), the Clojure inspired Lisp interpreter.
