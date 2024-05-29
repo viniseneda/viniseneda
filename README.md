@@ -18,7 +18,7 @@ Here you will find some of the projects I have already finished:
 
 [minishell](https://github.com/viniseneda/minishell): a simple implementation of a linux shell
 
-[philosophers](https://github.com/viniseneda/new_philo): implementation in C of the (dining philosophers problem)[https://en.wikipedia.org/wiki/Dining_philosophers_problem]
+[philosophers](https://github.com/viniseneda/new_philo): implementation in C of the [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 
 [Labs challenge](https://github.com/viniseneda/labs_challenge_2022): a simple API REST built in C with the mongoose library
 
